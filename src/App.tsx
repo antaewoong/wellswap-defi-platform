@@ -1,7 +1,5 @@
 // @ts-nocheck
 import React, { useState, useEffect, useRef, useCallback } from 'react';
-// ... 기존 코드 그대로
-import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { 
   ArrowRight, Menu, X, Shield, TrendingUp, Zap, 
   CheckCircle, Star, Wallet, Copy, Bell, Globe,
